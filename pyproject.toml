@@ -22,6 +22,3 @@ package-dir = {"" = "src"}
 
 [tool.setuptools.packages.find]
 where = ["src"]
-
-[tool.setuptools.package-data]
-"datos_gob_es_mcp.res" = ["Beaches_code.json"]
