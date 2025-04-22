@@ -1,14 +1,8 @@
-import os
 from typing import Any, Dict
 import httpx
 import json
 import logging
 from mcp.server.fastmcp import FastMCP
-from dotenv import load_dotenv
-
-
-# Load data from .env file
-load_dotenv()
 
 # Init logging
 logging.basicConfig(level=logging.INFO, 
