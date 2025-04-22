@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+src/datos_gob_es_mcp/__init__.py
+src/datos_gob_es_mcp/server.py
+src/datos_gob_es_mcp.egg-info/PKG-INFO
+src/datos_gob_es_mcp.egg-info/SOURCES.txt
+src/datos_gob_es_mcp.egg-info/dependency_links.txt
+src/datos_gob_es_mcp.egg-info/entry_points.txt
+src/datos_gob_es_mcp.egg-info/requires.txt
+src/datos_gob_es_mcp.egg-info/top_level.txt
