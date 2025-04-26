@@ -73,8 +73,8 @@ En general, para integrarlo en cualquier otro cliente compatible con MCP, como p
 
 Una vez configurado correctamente, podrás pedirle cosas como:
 
-```
-- `"Busca conjuntos de datos sobre transporte público en Madrid"`
-- `"Lista los datasets más recientes publicados por el Ayuntamiento de Barcelona"`
-- `"Muestra los detalles del dataset con URI https://datos.gob.es/es/catalogo/l01330241-padron-de-vehiculos-ano-2023-autobuses"`
+```text
+- "Busca conjuntos de datos sobre transporte público en Madrid"
+- "Lista los datasets más recientes publicados por el Ayuntamiento de Barcelona"
+- "Muestra los detalles del dataset con URI https://datos.gob.es/es/catalogo/l01330241-padron-de-vehiculos-ano-2023-autobuses"
 ---

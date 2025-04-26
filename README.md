@@ -73,8 +73,8 @@ For other MCP-compatible clients like Cursor, CODEGPT or Roo Code, add the same 
 
 Once properly configured, you can request operations like:
 
-```
-- `"Search for public transportation datasets in Madrid"`
-- `"List latest datasets published by Barcelona City Council"`
-- `"Show details for dataset with URI https://datos.gob.es/es/catalogo/l01330241-padron-de-vehiculos-ano-2023-autobuses"`
+```text
+- "Search for public transportation datasets in Madrid"
+- "List latest datasets published by Barcelona City Council"
+- "Show details for dataset with URI https://datos.gob.es/es/catalogo/l01330241-padron-de-vehiculos-ano-2023-autobuses"
 ---
