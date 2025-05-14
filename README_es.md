@@ -3,6 +3,8 @@
 
 [![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ancode666-datos-gob-es-mcp-badge.png)](https://mseep.ai/app/ancode666-datos-gob-es-mcp)
 
+[![Verified on MseeP](https://mseep.ai/badge.svg)](https://mseep.ai/app/726f4340-a758-4d9f-8f56-b2130dcf83c4)
+
 # Datos.gob.es-MCP. Integración vía MCP con el portal de datos abiertos del Gobierno de España
 
 **Datos.gob.es-mcp** permite consultar y analizar los más de 90,000 conjuntos de datos públicos disponibles en el portal [datos.gob.es](https://datos.gob.es/es/) directamente desde Claude AI y otros clientes MCP compatibles, utilizando el protocolo **Model Context Protocol (MCP)**.

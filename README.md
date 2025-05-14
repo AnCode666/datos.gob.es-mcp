@@ -3,6 +3,8 @@
 
 [![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ancode666-datos-gob-es-mcp-badge.png)](https://mseep.ai/app/ancode666-datos-gob-es-mcp)
 
+[![Verified on MseeP](https://mseep.ai/badge.svg)](https://mseep.ai/app/726f4340-a758-4d9f-8f56-b2130dcf83c4)
+
 # Datos.gob.es-MCP. MCP integration with the Spanish Government Open Data Portal
 
 **Datos.gob.es-mcp** enables querying and analyzing over 90,000 public datasets available on the [datos.gob.es](https://datos.gob.es/es/) portal directly from Claude AI and other compatible MCP clients using the **Model Context Protocol (MCP)**.
