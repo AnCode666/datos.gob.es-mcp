@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ancode666-datos-gob-es-mcp-badge.png)](https://mseep.ai/app/ancode666-datos-gob-es-mcp)
+
 [![en](https://img.shields.io/badge/lang-en-red.svg)](README.md)
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](README_es.md)
 
