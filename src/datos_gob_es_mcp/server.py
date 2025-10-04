@@ -10,10 +10,7 @@ logging.basicConfig(level=logging.INFO,
 logger = logging.getLogger("DatosGobEsMCPServer")
 
 # Init FastMCP server
-mcp = FastMCP(
-    "datosgob-mcp",
-    description="MCP server for querying the Spanish Government Open Data Portal (datos.gob.es) via SPARQL"
-)
+mcp = FastMCP("datosgob-mcp")
 
 # Constants
 SPARQL_ENDPOINT = "https://datos.gob.es/virtuoso/sparql"
