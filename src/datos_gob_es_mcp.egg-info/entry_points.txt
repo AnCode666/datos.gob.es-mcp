@@ -1,2 +1,0 @@
-[console_scripts]
-datos_gob_es_mcp = datos_gob_es_mcp.server:main
